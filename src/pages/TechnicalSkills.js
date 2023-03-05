@@ -9,7 +9,7 @@ import WorkIcon from "@material-ui/icons/Work";
 import "../styles/TechnicalSkills.css";
 function TechnicalSkills() {
   return (
-    <div className="experience">
+    <div className="experience" >
       <VerticalTimeline lineColor="#5e3521">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"

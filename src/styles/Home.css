@@ -27,13 +27,24 @@
   .about .prompt {
     width: 40%;
     font-size: 20px;
+    
   }
   .prompt svg {
     font-size: 60px;
     margin: 5px;
     color: white;
+ 
   }
-  
+  .socialMedia svg {
+    color: white;
+    /* margin: 20px;
+    font-size: 70px; */
+    cursor: pointer;
+    transition: 1s;
+  }
+  .socialMedia svg:hover{
+    background: rgb(198, 172, 172);
+  }
   .skills {
     font-size: 35px;
     width: 100%;

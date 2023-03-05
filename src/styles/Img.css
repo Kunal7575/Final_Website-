@@ -1,0 +1,11 @@
+.Image img{
+    margin:auto;
+    margin-top: 5%;
+    transform: translateY(-2%);
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 0.0005px;
+    width: 20%;
+ 
+    border-radius: 50%;
+}
